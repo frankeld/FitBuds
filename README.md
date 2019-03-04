@@ -1,6 +1,6 @@
 > ⚠️ This is a Hackathon entry for PickHacks 2019, and was created in under 36 hours. The code in this repo is likely to be hacky and potentially unstable/insecure, so please be careful if forking this repo. [You can view the project's Devpost page here.](https://devpost.com/software/fitbuds)
 
-> 🏆 FitBuds won Best UI, Top Five, and the Wolfram Award at PickHacks 2019!
+> 🏆 FitBuds won Best User Interface, Top Five, and The Wolfram Award at PickHacks 2019!
 
 # PickHacks 2019 Entry: FitBuds
 ## Inspiration
