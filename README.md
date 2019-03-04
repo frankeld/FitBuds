@@ -1,3 +1,7 @@
+> ⚠️ This is a Hackathon entry for PickHacks 2019, and was created in under 36 hours. The code in this repo is likely to be hacky and potentially unstable/insecure, so please be careful if forking this repo. [You can view the project's Devpost page here.](https://devpost.com/software/fitbuds)
+
+> 🏆 FitBuds won Best UI, Top Five, and the Wolfram Award at PickHacks 2019!
+
 # PickHacks 2019 Entry: FitBuds
 ## Inspiration
 We wanted FitBuds to not only be a unique service, but also one that served an overlooked segment of the population: senior citizens. According to the CDC, physically active older adults should incorporate around 2.5 hours of moderate endurance activity into their weeks to preserve physical function and mobility. However, more than 2/3 of adults do not reach this number.
